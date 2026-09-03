@@ -1,0 +1,6 @@
+{
+  "name": "Standard Meeting Minutes CMS",
+  "description": "A uniform standard CMS portal for drafting, reviewing, and publishing official meeting minutes with locked standard layout, field-restricted entry, action item tracking, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
